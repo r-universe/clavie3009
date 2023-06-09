@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "WLogit"]
+	path = WLogit
+	url = https://github.com/cran/WLogit
+	shallow = true
+	registered = true
